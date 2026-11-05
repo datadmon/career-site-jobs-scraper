@@ -1,0 +1,6 @@
+id,platform,company,title,locations,country,workplaceType,salaryMin,salaryMax,salaryCurrency,salaryPeriod,postedAt,url
+ashby:clera:47fc310d-e399-4ad2-9160-4efdc8380ef5,ashby,Clera,Lead Data Platform Engineer,Berlin,Germany,onsite,,,,,2026-11-03T17:07:22.399Z,https://jobs.ashbyhq.com/clera/47fc310d-e399-4ad2-9160-4efdc8380ef5
+greenhouse:spacex:8927919002,greenhouse,SpaceX,"Software Engineer, Full Stack (Data & Video Analysis)","Hawthorne, CA",,,125000,160000,USD,year,2026-11-03T18:22:57.000Z,https://boards.greenhouse.io/spacex/jobs/8927919002?gh_jid=8927919002
+greenhouse:encora10:5283692007,greenhouse,Encora,Senior Data Engineer AWS,Peru,,,,,,,2026-11-03T22:34:04.000Z,https://job-boards.greenhouse.io/encora10/jobs/5283692007
+greenhouse:stripe:8317306,greenhouse,Stripe,"Senior Staff Engineer, Big Data Infrastructure",San Francsico,,,,,,,2026-11-05T01:19:27.000Z,https://stripe.com/jobs/search?gh_jid=8317306
+greenhouse:coupang:8345323,greenhouse,Coupang,Data Engineering Lv.4,Bengaluru,,,,,,,2026-11-03T04:30:27.000Z,https://www.coupang.jobs/en/jobs/?gh_jid=8345323
